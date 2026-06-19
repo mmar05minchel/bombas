@@ -1,1 +1,1 @@
-bomba_1.1.ino.bin
+bombas_1.1.ino.bin
