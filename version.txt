@@ -1,1 +1,1 @@
-bombas_1.7.ino.bin
+bombas_1.6.ino.bin
